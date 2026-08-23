@@ -1,0 +1,4 @@
+Create new branch for each to use
+
+1. Before doing anything pull in both your branch and main 
+2. Communicate before pushing anything in main branch to avoid merge conflict 
